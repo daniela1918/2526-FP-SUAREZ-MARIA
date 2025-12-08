@@ -8,4 +8,5 @@ class Auto:
 # Uso
 mi_auto = Auto()
 mi_auto.encender()
+#ejemplodeabstraccion
 

@@ -13,3 +13,4 @@ def hacer_sonido(animal):
 hacer_sonido(Gato())
 hacer_sonido(Vaca())
 
+#ejemplodepolimorfismo

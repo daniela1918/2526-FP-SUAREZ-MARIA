@@ -12,3 +12,4 @@ class CuentaBancaria:
 cuenta = CuentaBancaria(100)
 cuenta.depositar(50)
 print(cuenta.obtener_saldo())
+#ejemplodeencapsulacion

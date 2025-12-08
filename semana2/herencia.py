@@ -9,3 +9,5 @@ class Perro(Animal):  # Perro hereda de Animal
 # Uso
 p = Perro()
 p.sonido()
+#ejemplodeherencia
+
