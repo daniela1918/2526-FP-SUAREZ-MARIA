@@ -1,4 +1,4 @@
-# Programacion tradicional para poder calcular el promedio semanal del clima
+# Programacion tradicional para poder calcular dicho promedio semanal del clima
 
 def ingresar_temperaturas():
     """

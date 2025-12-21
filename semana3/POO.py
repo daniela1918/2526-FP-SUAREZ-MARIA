@@ -51,7 +51,7 @@ class ClimaSemanal(ClimaDiario):
         return total / len(self.registro)
 
 
-# Ejecución del programa
+# Ejecución del dicho programa
 clima_semanal = ClimaSemanal()
 clima_semanal.registrar_temperaturas()
 promedio = clima_semanal.calcular_promedio_semanal()
