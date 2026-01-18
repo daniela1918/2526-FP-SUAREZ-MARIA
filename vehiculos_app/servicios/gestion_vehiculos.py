@@ -1,4 +1,4 @@
-# Clase encargada de la lógica del sistema
+# Clase encargada de la lógica del dicho sistema
 class GestionVehiculos:
     def __init__(self):
         self.vehiculos = []
