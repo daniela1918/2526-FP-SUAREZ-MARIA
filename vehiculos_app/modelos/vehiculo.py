@@ -1,4 +1,4 @@
-# Clase base Vehiculo
+# Clase base de Vehiculo
 # Aquí se aplica ENCAPSULACIÓN y se define una clase padre
 
 class Vehiculo:
