@@ -1,6 +1,6 @@
 from .vehiculo import Vehiculo
 
-# # Clase Moto hereda de Vehiculo (HERENCIA)
+# # Clase Moto hereda del Vehiculo (HERENCIA)
 class Moto(Vehiculo):
     def __init__(self, marca, modelo, cilindrada):
         super().__init__(marca, modelo)

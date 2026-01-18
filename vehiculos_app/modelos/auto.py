@@ -1,6 +1,6 @@
 from modelos.vehiculo import Vehiculo
 
-# Clase Auto hereda de Vehiculo
+# Clase Auto hereda del Vehiculo
 class Auto(Vehiculo):
     def __init__(self, marca, modelo, puertas):
         super().__init__(marca, modelo)
